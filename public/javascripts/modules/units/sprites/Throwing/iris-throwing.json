@@ -1,0 +1,28 @@
+{"frames": {
+
+"Iris-throw2.png":
+{
+	"frame": {"x":2,"y":2,"w":275,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":275,"h":375},
+	"sourceSize": {"w":275,"h":375}
+},
+"Iris-throw3.png":
+{
+	"frame": {"x":279,"y":2,"w":225,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":374},
+	"sourceSize": {"w":225,"h":374}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "iris-throwing.png",
+	"format": "RGBA8888",
+	"size": {"w":506,"h":379},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:47b6c67300103cb61f81ce0362fda162:e39d3ca5c1f51eb912ec98ffea9b64ba:015dace27e8c3b46d074a4b0e7b3f100$"
+}
+}

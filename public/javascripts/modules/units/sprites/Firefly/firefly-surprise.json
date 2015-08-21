@@ -1,0 +1,44 @@
+{"frames": {
+
+"firefly1.png":
+{
+	"frame": {"x":1053,"y":2,"w":346,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":14,"w":346,"h":410},
+	"sourceSize": {"w":399,"h":506}
+},
+"firefly2.png":
+{
+	"frame": {"x":2,"y":2,"w":346,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":5,"w":346,"h":416},
+	"sourceSize": {"w":378,"h":421}
+},
+"firefly3.png":
+{
+	"frame": {"x":350,"y":2,"w":345,"h":416},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":8,"w":345,"h":416},
+	"sourceSize": {"w":353,"h":424}
+},
+"firefly4.png":
+{
+	"frame": {"x":697,"y":2,"w":354,"h":410},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":16,"w":354,"h":410},
+	"sourceSize": {"w":377,"h":433}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "firefly-surprise.png",
+	"format": "RGBA8888",
+	"size": {"w":1401,"h":420},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ea1a8a5529422c052946211203f61ea7:94bca0d07d2df38ae5336a321592fd54:771f31b62c7d240b879ba0a085094d21$"
+}
+}

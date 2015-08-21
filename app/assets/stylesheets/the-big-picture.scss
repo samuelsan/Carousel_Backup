@@ -1,0 +1,78 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: auto;
+	/*background: url("../images/wood-bg.jpg") repeat 0 0;*/
+}
+
+.full { 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#gamecontainer {
+  margin-top: 25px;
+  float: center;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#background-container {
+  overflow: hidden;
+  height: auto;
+  position:fixed;
+  width: auto;
+  overflow-y: scroll;
+}
+
+.about-div {
+  background-image:     url('../images/indexbackground.jpg');
+  background-size:      cover;
+  background-position:  center center;
+  z-index:              1000;
+  margin-left:          auto;
+  margin-right:         auto;
+  min-width:            1447px;
+  min-height:           1080px;
+  padding:              5px;
+}
+
+.contact-div {
+  background-image: url('../images/contact-background.jpg');
+  background-size:  cover;
+  margin-left:      auto;
+  margin-right:     auto;
+  min-width:        1480px;
+  min-height:       1164px;
+  z-index:          1000;
+  background-color: none;
+  padding:          5px;
+  color:            #690505;
+  font-weight:      bold;
+  text-align:       right;
+  input, textarea {
+    margin-left: 20px;
+  }
+}
+
+.contact-form {
+  position: absolute;
+  top:      350px;
+  left:     600px;
+}
+
+.contact-div .input {
+  margin: 10px 0px;
+}
+
+#btn-primary {
+  color: #690505;
+}

@@ -1,0 +1,8 @@
+{
+  "quotmark": "false",
+  "devel": true,
+  "globals":
+  [
+    "Phaser"
+  ]
+}

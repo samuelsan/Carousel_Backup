@@ -1,0 +1,12 @@
+<div id="background-container" content scroll="false">
+    <img src="../images/indexbackground.jpg" usemap="#index" />
+    <% if (current_user()) %>
+        <map name="index">
+            <area  alt="" title="" href="/carousel/index" shape="rect" coords="986,412,1164,536" style="outline:none;" />
+        </map>
+    <% else %>
+        <map name="index">
+            <area  alt="" title="" href="/auth/facebook" shape="rect" coords="986,412,1164,536" style="outline:none;" />
+        </map>
+    <% end %>
+</div>

@@ -1,0 +1,44 @@
+{"frames": {
+
+"Iris-tire1.png":
+{
+	"frame": {"x":839,"y":2,"w":232,"h":717},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":232,"h":717},
+	"sourceSize": {"w":276,"h":777}
+},
+"Iris-tire2.png":
+{
+	"frame": {"x":285,"y":2,"w":275,"h":733},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":275,"h":733},
+	"sourceSize": {"w":328,"h":792}
+},
+"Iris-tire3.png":
+{
+	"frame": {"x":2,"y":2,"w":281,"h":738},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":281,"h":738},
+	"sourceSize": {"w":304,"h":792}
+},
+"Iris-tire4.png":
+{
+	"frame": {"x":562,"y":2,"w":275,"h":733},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":275,"h":733},
+	"sourceSize": {"w":328,"h":792}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "iris-tire.png",
+	"format": "RGBA8888",
+	"size": {"w":1073,"h":742},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:921305392e6a194a7ff34217d9ef4182:c7cf8e9d49cf7a0f109378b9a76d2c4a:4362e82888810c786cd1f2f96641ecc1$"
+}
+}

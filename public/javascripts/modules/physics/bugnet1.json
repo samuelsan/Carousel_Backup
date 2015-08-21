@@ -1,0 +1,21 @@
+{ 
+    
+    "bugnet1": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   82.5, 134  ,  57.5, 50  ,  62.5, 49  ,  85.5, 121  ,  89.5, 137  ,  86.5, 140  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   -0.5, 43  ,  4.5, 33  ,  28.5, 12  ,  48, -0.5  ,  57.5, 50  ,  30, 61.5  ,  6, 62.5  ,  -0.5, 57  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   62.5, 49  ,  57.5, 50  ,  48, -0.5  ,  49, -0.5  ,  55, 0.5  ,  65.5, 14  ,  68.5, 34  ]
+        }
+    ]
+}

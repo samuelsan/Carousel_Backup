@@ -1,0 +1,44 @@
+{"frames": {
+
+"Iris-swing1.png":
+{
+	"frame": {"x":2,"y":2,"w":177,"h":586},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":586},
+	"sourceSize": {"w":188,"h":586}
+},
+"Iris-swing2.png":
+{
+	"frame": {"x":2,"y":590,"w":174,"h":586},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":174,"h":586},
+	"sourceSize": {"w":188,"h":586}
+},
+"Iris-swing3.png":
+{
+	"frame": {"x":2,"y":1178,"w":187,"h":586},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":187,"h":586},
+	"sourceSize": {"w":188,"h":586}
+},
+"Iris-swing4.png":
+{
+	"frame": {"x":2,"y":1766,"w":174,"h":584},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":174,"h":584},
+	"sourceSize": {"w":188,"h":586}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "iris-tire.png",
+	"format": "RGBA8888",
+	"size": {"w":191,"h":2352},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1eb2ca77eccfcfc622d84c679978c843:564ce99b038f46e28a61751e406b0765:6afeb3b4f26cf85557e1590ce2d4872e$"
+}
+}
